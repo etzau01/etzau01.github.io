@@ -1,5 +1,6 @@
 body {
-	background-color: wheat;
+	background-image: url("pico2.jpg");
+  background-size: cover;
 	font-family: "Trebuchet MS";
 	font-size: 16px;
 	text-align: center;
@@ -14,7 +15,7 @@ img {
 h6 {
 	font-family: "Trebuchet MS";
 	font-size: 20px;
-	padding: 1%; 
+	padding: 1%;
 	text-align: center;
 	background-color: #E7B787;
 	margin-left: 40%;
@@ -57,5 +58,3 @@ h5 {
 	color: teal;
 	font-weight: normal;
 }
-
-
