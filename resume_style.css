@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.75);
   background-size: cover;
 	font-family: "Trebuchet MS";
 	font-size: 16px;
@@ -34,21 +34,22 @@ h3 {
 	font-size: 20px;
 	font-family: "Trebuchet MS";
 	text-align: left;
-	color: teal;
+	color: #B66A6A;
 }
 
+/* Dark orange */
 h4 {
 	font-size: 14px;
 	font-family: "Trebuchet MS";
 	text-align: left;
 	font-weight: bold;
-	color: lightseagreen;
+	color: #D88A46;
 }
 
 h5 {
 	font-size: 12px;
 	font-family: "Trebuchet MS";
 	text-align: left;
-	color: teal;
+	color: black;
 	font-weight: normal;
 }
