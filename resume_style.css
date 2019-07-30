@@ -1,51 +1,9 @@
 body {
-	background-image: url("pico2.jpg");
+  background-color: rgba(255, 255, 255, 0.5);
   background-size: cover;
 	font-family: "Trebuchet MS";
 	font-size: 16px;
 	text-align: center;
-}
-
-#resume {
-	background-image: url("pico2.jpg");
-}
-
-.homebutton {
-	background-color:#E7B787;
-	-moz-border-radius:28px;
-	-webkit-border-radius:28px;
-	border-radius:28px;
-	border:1px solid #EFAF98;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	font-family: "Trebuchet MS";
-}
-.homebutton:hover {
-	background-color:#EFAF98;
-}
-.homebutton:active {
-	position:relative;
-	top:1px;
-}
-
-#iframeContainer {
-	position: relative;
-	overflow: hidden;
-	padding-top: 0;
-}
-
-#frame {
-	align: "left";
-}
-
-img {
-	border-radius: 50%;
-	max-width: 50%;
-  height: auto;
 }
 
 h6 {
@@ -53,7 +11,7 @@ h6 {
 	font-size: 20px;
 	padding: 1%;
 	text-align: center;
-	background-color: #EFAF98;
+	background-color: #E7B787;
 	margin-left: 40%;
 	margin-right: 40%;
 }
