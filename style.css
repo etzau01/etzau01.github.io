@@ -16,8 +16,6 @@ html {
 
 #homebuttons{
 	position: fixed;
-	display: inline-block;
-    	margin: 5px; /* space between buttons */
 	left: 0;
 	bottom: 0;
 	width: 100%;
@@ -126,7 +124,7 @@ body {
 img {
 	border-radius: 50%;
 	max-width: 50%;
-  height: auto;
+  	height: auto;
 }
 
 h6 {
