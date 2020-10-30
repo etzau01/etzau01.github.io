@@ -35,15 +35,11 @@ body {
 	color: #EFAF98;
 }
 .bioLeft {
-	position: relative;
-  	width: 400px;
-  	height: 400px;
+	margin-right: 400px;
 }
 
 .bioRight {
-	position: relative;
-  	width: 400px;
-  	height: 400px;
+	margin-left: 50%;
 }
 
 .homebutton {
