@@ -34,9 +34,12 @@ body {
 	font-family: "Trebuchet MS";
 	color: #EFAF98;
 }
-.bio {
-	padding-left: 25%;
-	padding-right: 25%;
+.bioLeft {
+	padding-left: 10%;
+}
+
+.bioRight {
+	padding-left: 60%;
 }
 
 .homebutton {
